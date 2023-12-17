@@ -66,13 +66,17 @@ This model can serve as a starting point for further refinements and improvement
 
 Based on that there can be defined following metrics:
 sensivity - percentage that real true was classified as true 
+
 ![obraz](https://github.com/RobertNeat/Classification/assets/47086490/0f66b852-bdff-4ac8-bc89-50097022f0a8)
 
 precission - percentage that prediction was accurate
+
 ![obraz](https://github.com/RobertNeat/Classification/assets/47086490/26db15ca-5fdf-4864-81eb-6f21ca702e13)
 
 specificity - percentage that the false was correctly specified as false
+
 ![obraz](https://github.com/RobertNeat/Classification/assets/47086490/fc79b98f-5573-4f8a-9e2a-7c8fd7b7426e)
 
 accuracy - percentage that all classifications were correct
+
 ![obraz](https://github.com/RobertNeat/Classification/assets/47086490/38b9e28a-9947-49b6-bc35-15f7c89ad687)
