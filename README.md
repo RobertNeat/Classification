@@ -58,7 +58,7 @@ To run the project, you have two options:
 
 1. **Google Colab via Gist:**
    - Use the Google Colab environment via the Gist website.
-   - Access the project resources including the dataset from the following [Gist link]([gist_link_here](https://gist.github.com/RobertNeat/a07fec9d76fd48abf0d589ca08a0a64e)).
+   - Access the project resources including the dataset from the following [gist_link_here](https://gist.github.com/RobertNeat/a07fec9d76fd48abf0d589ca08a0a64e).
 
 2. **Local Deployment:**
    - Download the repository branch and launch the project locally.
