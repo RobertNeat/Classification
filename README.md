@@ -8,8 +8,19 @@ This repository contains code for a loan classification model that predicts whet
 1. **k-Nearest Neighbors (k-NN)**
     - The k-NN algorithm predicts the classification of a data point by identifying the majority class among its k nearest neighbors in the feature space.
 
+<img src="https://github.com/RobertNeat/Classification/assets/47086490/8f5881b9-320e-4012-8a33-61497c43e16d" width="300"/>
+<!--![obraz](https://github.com/RobertNeat/Classification/assets/47086490/8f5881b9-320e-4012-8a33-61497c43e16d)-->
+
+
 2. **Support Vector Machine (SVM)**
     - SVM is a supervised machine learning algorithm used for classification tasks. It finds the hyperplane that best separates classes in a high-dimensional space.
+
+<img src="https://github.com/RobertNeat/Classification/assets/47086490/d602bc60-e977-45a9-afca-818d216771bf" width="300"/>
+<img src="https://github.com/RobertNeat/Classification/assets/47086490/6bb85045-a17a-4e93-a68a-12410a31c73e" width="300"/>
+
+<!--![obraz](https://github.com/RobertNeat/Classification/assets/47086490/d602bc60-e977-45a9-afca-818d216771bf)-->
+<!--![obraz](https://github.com/RobertNeat/Classification/assets/47086490/6bb85045-a17a-4e93-a68a-12410a31c73e)-->
+
 
 3. **Decision Tree Classifier**
     - Decision trees create models that predict the value of a target variable by learning simple decision rules inferred from the features.
